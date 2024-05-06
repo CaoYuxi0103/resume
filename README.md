@@ -28,3 +28,4 @@ Researcher, advised by Gaofeng Fan, Assoc. Prof., ShanghaiTech University
 
 ## EXTRACURRICULAR ACTIVITIES
 Head of the Danceholic Street Dance Club
+<p style="text-align:left;">一部分文字<span style="float:right;">另一部分文字</span></p>

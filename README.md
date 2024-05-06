@@ -1,7 +1,6 @@
 <h1 align="center">YUXI CAO</h1>
 
-<div align='center'>Tel: +86 13044660103 E-mail: caoyx0103@gmail.com告</font>×/div>
-<p align="center">09/2021 - 06/2025</p>
+<p align="center">Tel: +86 13044660103 E-mail: caoyx0103@gmail.com</p>
  
 ## EDUCATION
 

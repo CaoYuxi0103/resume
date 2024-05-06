@@ -26,3 +26,4 @@ Researcher, advised by Gaofeng Fan, Assoc. Prof., ShanghaiTech University
 ### Outcross of C.elegans to Rid Cas9 Gene in ChrⅢ of EG9881
 ### Isolation and Identification of Bacteria from Electronic Devices
 
+## EXTRACURRICULAR ACTIVITIES

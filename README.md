@@ -1,7 +1,6 @@
 <h1 align="center">YUXI CAO</h1>
 
-
-<center>
+<p style="text-align:center;">
 Tel: +86 13044660103  | E-mail: 
 <a href=caoyx0103@gmail.com>caoyx0103@gmail.com</a>
 </center>

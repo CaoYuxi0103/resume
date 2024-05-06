@@ -27,3 +27,4 @@ Researcher, advised by Gaofeng Fan, Assoc. Prof., ShanghaiTech University
 ### Isolation and Identification of Bacteria from Electronic Devices
 
 ## EXTRACURRICULAR ACTIVITIES
+Head of the Danceholic Street Dance Club

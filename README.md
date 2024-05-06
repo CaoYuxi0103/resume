@@ -1,7 +1,7 @@
 <h1 align="center">YUXI CAO</h1>
 
-<center> Tel: +86 13044660103 E-mail: caoyx0103@gmail.com </center> 
-<div align='center'><font size=-'70'>实习总结报告</font>×/div>
+<div align='center'>Tel: +86 13044660103 E-mail: caoyx0103@gmail.com告</font>×/div>
+ 
 ## EDUCATION
 
 **ShanghaiTech University**   <p align="right">09/2021 - 06/2025</p>

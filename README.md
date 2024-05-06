@@ -1,5 +1,5 @@
-<div align='center'><font size='300'>**YUXI CAO**</font></div>
-<p align="center">09/2021 - 06/2025</p>
+
+<p align="center"><font size='300'>**YUXI CAO**</p>
 <center> Tel: +86 13044660103 E-mail: caoyx0103@gmail.com </center> 
 
 ## EDUCATION

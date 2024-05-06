@@ -1,6 +1,5 @@
-<h1 align="center">标题文本</h1>
-<p align="center"><font size='300'>**YUXI CAO**</p>
- 
+<h1 align="center">YUXI CAO</h1>
+
 <center> Tel: +86 13044660103 E-mail: caoyx0103@gmail.com </center> 
 
 ## EDUCATION

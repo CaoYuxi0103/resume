@@ -21,3 +21,7 @@ Objective: To improve the efficiency of NAD+ biosynthetase NAMPT
 - Verified NAMPT overexpression through Western blotting, fluorescence microscopy, and flow cytometry
 - Constructed plasmids using Gibson Assembly and overlap PCR techniques
 - Conducted lentivirus transfection and screening cells with antibiotics
+
+
+## COURSE PROJECTS
+### Outcross of C.elegans to Rid Cas9 Gene in ChrⅢ of EG9881

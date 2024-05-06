@@ -1,4 +1,3 @@
-@import "{{ github.css }}";
 
 <h1 align="center">YUXI CAO</h1>
 

@@ -1,11 +1,13 @@
 # YUXI CAO
-<center>_Tel: +86 13044660103_ _E-mail: caoyx0103@gmail.com_</center> 
+
+<center>Tel: +86 13044660103 E-mail: caoyx0103@gmail.com</center> 
 
 ## EDUCATION
 
-*ShanghaiTech University* <p align="right">09/2021 - 06/2025</p>
+**ShanghaiTech University**  <p align="right">09/2021 - 06/2025</p>
 
-BE in Biological Science; GPA: 3.66/4.00
+_BE in Biological Science; GPA: 3.66/4.00_
+
 - Honor: Merit Student Award in 2022 & 2023
 
 ## RESEARCH EXPERIENCE

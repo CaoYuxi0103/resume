@@ -1,9 +1,16 @@
 # YUXI CAO
+Tel: +86 13044660103 
+
+E-mail: caoyx0103@gmail.com
+
+## EDUCATION
+
 ShanghaiTech University 09/2021 - 06/2025
 
 BE in Biological Science; GPA: 3.66/4.00
 - Honor: Merit Student Award in 2022 & 2023
-## EDUCATION
+
+## RESEARCH EXPERIENCE
 ### Directed Evolution of NAD+ Biosynthetic Enzyme NAMPT Using TRACE (T7 PolymeraseDriven Continuous Editing) System
 09/2022 - 08/2023
 
@@ -14,4 +21,3 @@ Objective: To improve the efficiency of NAD+ biosynthetase NAMPT
 - Verified NAMPT overexpression through Western blotting, fluorescence microscopy, and flow cytometry
 - Constructed plasmids using Gibson Assembly and overlap PCR techniques
 - Conducted lentivirus transfection and screening cells with antibiotics
-## RESEARCH EXPERIENCE

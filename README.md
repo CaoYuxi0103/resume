@@ -1,4 +1,4 @@
-<div align='center'><font size='200'>YUXI CAO</font></div>
+<div align='center'><font size='300'>**YUXI CAO**</font></div>
 
 <center> Tel: +86 13044660103 E-mail: caoyx0103@gmail.com </center> 
 
